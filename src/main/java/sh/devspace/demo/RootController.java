@@ -26,7 +26,7 @@ public class RootController {
 			"	</div>" +  
 			"</body>" +  
 			"</html>";
-
+ 
         return response;
     }
 
